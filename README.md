@@ -1,6 +1,6 @@
 # Atliq Grand Hospitality Analytics Project
 
-##[Live Dashboard](https://app.powerbi.com/groups/me/reports/a48ed8c8-c22b-42a0-a987-a29768dd12f9/8ccfbbf20adb8e8ddd13?experience=power-bi)
+## [Live Dashboard](https://app.powerbi.com/groups/me/reports/a48ed8c8-c22b-42a0-a987-a29768dd12f9/8ccfbbf20adb8e8ddd13?experience=power-bi)
 
 ## Overview
 This repository highlights the Atliq Grands Hospitality Analytics project. As a key player in India's hospitality sector, Atliq Grands faced challenges within the luxury business hotel segment. This project applies data-driven strategies and business intelligence to address these challenges effectively.
